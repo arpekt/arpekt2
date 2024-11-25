@@ -1,0 +1,19 @@
+Button {
+    padding: 10px 10px;
+    outline: none;
+    outline: none;
+    border-radius: 25px;
+    background-color: gray;
+    cursor: pointer;
+    color: #ffff;
+    font-weight: 600;
+
+}
+body {
+    background-image: url('path/to/your/image.jpg'); /* Укажите путь к вашей картинке */
+    background-size: cover; /* Заставляет изображение занимать весь экран */
+    background-position: center; /* Центрирует изображение */
+    background-repeat: no-repeat; /* Не повторяет изображение */
+    height: 100vh; /* Высота на всю высоту экрана */
+    margin: 0; /* Убирает отступы */
+}
